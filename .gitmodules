@@ -1,3 +1,6 @@
 [submodule "gainshark-api"]
 	path = gainshark-api
 	url = https://github.com/david-marquez/gainshark-api.git
+[submodule "gainshark-webclient"]
+	path = gainshark-webclient
+	url = https://github.com/david-marquez/gainshark-webclient.git
